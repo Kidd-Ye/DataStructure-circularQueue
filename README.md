@@ -1,6 +1,6 @@
 # DataStructure-circularQueue
 A example of circular queue
-    const int QueueSize = 100;
+<pre><code> const int QueueSize = 100;
 
 class CircularQueue{
 public:
@@ -48,4 +48,4 @@ int CircularQueue::GetQueue(){
     }else{
         return data[(front + 1) % QueueSize];
     }
-}
+}</code></pre>
