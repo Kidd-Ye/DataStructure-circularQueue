@@ -1,6 +1,6 @@
 # DataStructure-circularQueue
 A example of circular queue
-const int QueueSize = 100;
+    const int QueueSize = 100;
 
 class CircularQueue{
 public:
